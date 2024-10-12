@@ -7,6 +7,7 @@ $$
 $$
 
 OR
+
 $$
 (a = b) \Rightarrow f(a) = f(b).
 $$
