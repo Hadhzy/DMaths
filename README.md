@@ -1,4 +1,4 @@
-Planning to cover:
+⁸Planning to cover:
   - PreCalc:
       - (injective/bijective/surjective)
       - function composition
@@ -10,7 +10,11 @@ Planning to cover:
       - exponentials and logarithmic functions
   - Limits and Continuity
      - One Sided Limits
-     - 
-  -
+     - Graphical Solutions
+     - Numeric Solutions 
+     - Advanced methods
+     - Indeterminate form
+     - Limits to asymptotes
+     - direct Substitution 
   -
   -
