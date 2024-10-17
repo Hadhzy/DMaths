@@ -3,7 +3,14 @@ Planning to cover:
       - (injective/bijective/surjective)
       - function composition
       - function inverse
-  -
+      - Trigonometry
+         - TBD here
+      - Complex numbers
+      - Sequences and Series
+      - exponentials and logarithmic functions
+  - Limits and Continuity
+     - One Sided Limits
+     - 
   -
   -
   -
