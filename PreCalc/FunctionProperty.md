@@ -15,6 +15,7 @@ $$
 $$ \textcolor{blue}{\textit{(If the inputs are different, the outputs are different)}}$$ 
 
 OR
+
 $$
 (a = b) \Rightarrow f(a) = f(b).
 $$
