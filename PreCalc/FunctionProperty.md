@@ -96,4 +96,50 @@ The composition of these function is a bijection as well.
 
 If it is not zero, yes.
 
+### Finding if a function is injective
+
+To find if $f(x) = 2x + 3$ is injective
+we can substitute in $a$ and $b$(same inputs) and then
+examine if the same inputs result in the same outputs.
+
+$f(a) = 2a + 3$
+$f(b) = 2b + 3$
+
+Solving the equation:
+- $2a + 3 = 2b + 3;$
+- $2a = 2b$
+- $a = b$
+If we consider a parabola which takes on every single output twice, we end up with
+$f(x) = x^2 = 3$
+
+$f(a) = a^2 + 3$
+$f(b) = b^2 + 3$
+
+Setting them equal:
+- $a^2 + 3 = b^2 + 3$
+- $a^2 = b^2$
+- $a = \pm b$
+Here, we see that a corresponds to both $+b$ and $-b$.
+
+Thus, we can see it is not an injection.
+
+### Finding if a function is surjective
+$\text{Codomain: } \mathbb{R}$
+To show if a function is surjective, we want to show that for every input, there is a corresponding
+valid output.
+Consider this function:
+$f(x) = 2x + 3$
+
+$y = 2x + 3$
+$\frac{y - 3}{2} = x$
+This function is real for every single y, thus we can state that the functin is surjective.
+
+$f(x) = x^2$
+$y = x^2$
+$\sqrt{y} = x$
+
+Since the codomain is all the real numbers, here the inputs
+would produce a real number for outputs that are not negative.
+Thus, we can see this function is not a surjection.
+
 #### Link to next chapter here.
